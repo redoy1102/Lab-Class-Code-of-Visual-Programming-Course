@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Lab_Task___01.Problems;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,10 +7,17 @@ using System.Threading.Tasks;
 
 namespace Lab_Task___01
 {
-    internal class Program
+    internal class main
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+            one oneObj = new one();
+            Console.WriteLine(oneObj.total(10, 20));
+            // oneObj.myInfo();    // can't access
+
+            two objTwo = new two();
+            objTwo.callProtected();
+
         }
     }
 }

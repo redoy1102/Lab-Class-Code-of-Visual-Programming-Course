@@ -1,0 +1,8 @@
+C:\Users\Lenovo\OneDrive - iubat.edu\University Notes\IUBAT\Programming Course\CSC 439(Visual Programming) Lamiya Ma'am\Codes\Lab Class\Lab Task - 01\Lab Task - 01\bin\Debug\Lab Task - 01.exe.config
+C:\Users\Lenovo\OneDrive - iubat.edu\University Notes\IUBAT\Programming Course\CSC 439(Visual Programming) Lamiya Ma'am\Codes\Lab Class\Lab Task - 01\Lab Task - 01\bin\Debug\Lab Task - 01.exe
+C:\Users\Lenovo\OneDrive - iubat.edu\University Notes\IUBAT\Programming Course\CSC 439(Visual Programming) Lamiya Ma'am\Codes\Lab Class\Lab Task - 01\Lab Task - 01\bin\Debug\Lab Task - 01.pdb
+C:\Users\Lenovo\OneDrive - iubat.edu\University Notes\IUBAT\Programming Course\CSC 439(Visual Programming) Lamiya Ma'am\Codes\Lab Class\Lab Task - 01\Lab Task - 01\obj\Debug\Lab Task - 01.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - iubat.edu\University Notes\IUBAT\Programming Course\CSC 439(Visual Programming) Lamiya Ma'am\Codes\Lab Class\Lab Task - 01\Lab Task - 01\obj\Debug\Lab Task - 01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive - iubat.edu\University Notes\IUBAT\Programming Course\CSC 439(Visual Programming) Lamiya Ma'am\Codes\Lab Class\Lab Task - 01\Lab Task - 01\obj\Debug\Lab Task - 01.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - iubat.edu\University Notes\IUBAT\Programming Course\CSC 439(Visual Programming) Lamiya Ma'am\Codes\Lab Class\Lab Task - 01\Lab Task - 01\obj\Debug\Lab Task - 01.exe
+C:\Users\Lenovo\OneDrive - iubat.edu\University Notes\IUBAT\Programming Course\CSC 439(Visual Programming) Lamiya Ma'am\Codes\Lab Class\Lab Task - 01\Lab Task - 01\obj\Debug\Lab Task - 01.pdb
