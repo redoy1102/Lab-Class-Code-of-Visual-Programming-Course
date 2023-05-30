@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{70AD12D8-E175-4788-A571-C0468CD76B81}</ProjectGuid>
+    <ProjectGuid>{7581440B-E39D-4141-8B84-CC7516C1ECCF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lab_Task___01</RootNamespace>
-    <AssemblyName>Lab Task - 01</AssemblyName>
+    <RootNamespace>Enum</RootNamespace>
+    <AssemblyName>Enum</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Problem1\two.cs" />
-    <Compile Include="Problem1\one.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab_Task___01.Problems
+namespace Lab_Task___01.Problem1
 {
     internal class one
     {
@@ -26,6 +26,7 @@ namespace Lab_Task___01.Problems
         {
             Console.WriteLine("I am exampleProtected function.");
         }
+
         
     }
 }

@@ -1,4 +1,4 @@
-﻿using Lab_Task___01.Problems;
+﻿using Lab_Task___01.Problem1;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +14,8 @@ namespace Lab_Task___01
             one oneObj = new one();
             Console.WriteLine(oneObj.total(10, 20));
             // oneObj.myInfo();    // can't access
+
+
 
             two objTwo = new two();
             objTwo.callProtected();

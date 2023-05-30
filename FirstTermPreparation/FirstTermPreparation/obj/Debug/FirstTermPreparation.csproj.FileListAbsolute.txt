@@ -1,0 +1,8 @@
+C:\Users\Lenovo\OneDrive - iubat.edu\University Notes\IUBAT\Programming Course\CSC 439(Visual Programming) Lamiya Ma'am\Codes\FirstTermPreparation\FirstTermPreparation\bin\Debug\FirstTermPreparation.exe.config
+C:\Users\Lenovo\OneDrive - iubat.edu\University Notes\IUBAT\Programming Course\CSC 439(Visual Programming) Lamiya Ma'am\Codes\FirstTermPreparation\FirstTermPreparation\bin\Debug\FirstTermPreparation.exe
+C:\Users\Lenovo\OneDrive - iubat.edu\University Notes\IUBAT\Programming Course\CSC 439(Visual Programming) Lamiya Ma'am\Codes\FirstTermPreparation\FirstTermPreparation\bin\Debug\FirstTermPreparation.pdb
+C:\Users\Lenovo\OneDrive - iubat.edu\University Notes\IUBAT\Programming Course\CSC 439(Visual Programming) Lamiya Ma'am\Codes\FirstTermPreparation\FirstTermPreparation\obj\Debug\FirstTermPreparation.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - iubat.edu\University Notes\IUBAT\Programming Course\CSC 439(Visual Programming) Lamiya Ma'am\Codes\FirstTermPreparation\FirstTermPreparation\obj\Debug\FirstTermPreparation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive - iubat.edu\University Notes\IUBAT\Programming Course\CSC 439(Visual Programming) Lamiya Ma'am\Codes\FirstTermPreparation\FirstTermPreparation\obj\Debug\FirstTermPreparation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - iubat.edu\University Notes\IUBAT\Programming Course\CSC 439(Visual Programming) Lamiya Ma'am\Codes\FirstTermPreparation\FirstTermPreparation\obj\Debug\FirstTermPreparation.exe
+C:\Users\Lenovo\OneDrive - iubat.edu\University Notes\IUBAT\Programming Course\CSC 439(Visual Programming) Lamiya Ma'am\Codes\FirstTermPreparation\FirstTermPreparation\obj\Debug\FirstTermPreparation.pdb
