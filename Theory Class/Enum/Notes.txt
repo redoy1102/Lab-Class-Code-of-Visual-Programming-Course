@@ -1,0 +1,4 @@
+1. enum is a keyword.
+2. enum can't be float type.
+3. enum can only be a int or character type.
+4. Enum is short for "enumerations", which means "specifically listed".
